@@ -1,0 +1,7 @@
+com\springboot\controller\StudentController.class
+com\springboot\model\Student.class
+com\springboot\model\Course.class
+com\springboot\controller\LoginController.class
+com\springboot\StudentServicesApplication.class
+com\springboot\service\StudentService.class
+com\springboot\security\SecurityConfig.class
